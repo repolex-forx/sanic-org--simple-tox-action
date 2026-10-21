@@ -1,0 +1,11 @@
+{
+  "org": "sanic-org",
+  "repo": "simple-tox-action",
+  "versions": [
+    {
+      "commit": "645bfc92ceac1f4f089e3d95048ec0d967f155ce",
+      "tag": "v1",
+      "parsed_at": "2026-10-21T02:52:26.772984+00:00"
+    }
+  ]
+}
