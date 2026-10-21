@@ -1,0 +1,15 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/sanic-org/simple-tox-action",
+  "@type": "gh:Repository",
+  "gh:name": "simple-tox-action",
+  "gh:owner": "sanic-org",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/sanic-org/simple-tox-action/commit/645bfc92ceac1f4f089e3d95048ec0d967f155ce",
+      "git:hexsha": "645bfc92ceac1f4f089e3d95048ec0d967f155ce",
+      "repolex:parseStatus": "metadata_complete",
+      "git:tagName": "v1.0.0"
+    }
+  ]
+}

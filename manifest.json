@@ -1,0 +1,21 @@
+{
+  "manifest_version": "1.0",
+  "org": "sanic-org",
+  "repo": "simple-tox-action",
+  "versions": [
+    {
+      "commit": "645bfc92ceac1f4f089e3d95048ec0d967f155ce",
+      "parsed_at": "2026-10-21T02:50:04.606958+00:00",
+      "tag": "v1",
+      "filetree": "filetree/645bfc92ceac1f4f089e3d95048ec0d967f155ce.nq.gz",
+      "blobs": [
+        "blob/f3b34a3c31ffe4485662134b639eb700829ae4fe.nq.gz",
+        "blob/0477c49de1fdd1c5a3928d5535d5ccc20b6f9a4e.nq.gz",
+        "blob/fdde0b12696b71a4e8eb26af6a03b27084ffcd46.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
