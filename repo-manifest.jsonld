@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sanic-org/simple-tox-action/commit/645bfc92ceac1f4f089e3d95048ec0d967f155ce",
       "git:hexsha": "645bfc92ceac1f4f089e3d95048ec0d967f155ce",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v1.0.0"
     }
   ]
